@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/695e7ba99010c1ebadcf4.jpg" alt="BOT-SPAM logo">
+  <img src="https://telegra.ph/file/b053e7601acce8d091568.jpg" alt="BOT-SPAM logo">
 </p>
 <h1 align="center">
   <b>MLO SPAMBOTS</b>
@@ -15,13 +15,13 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AkshuPrashu/Spambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/battlefield760/Spambot)
 
 
-# Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/Mlo_Empire)
 
-# Credits
-* [RiZoeL Creator](https://github.com/MrRizoel)
-* [PROFESSOR](https://github.com/AkshuPrashu)
+
+
+
+
+
+
