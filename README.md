@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/b053e7601acce8d091568.jpg" alt="BOT-SPAM logo">
 </p>
 <h1 align="center">
-  <b>MLO SPAMBOTS</b>
+  <b>battlefield SPAMBOTS</b>
 </h1>
 
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
